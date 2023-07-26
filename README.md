@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hucKOder
 - 👀 I’m interested in Python, Data & ML
-- 🌱 I’m currently learning Hadoop, Spark, Data streaming
 - 💞️ I’m looking to collaborate on any Data or ML problem
 - 📫 How to reach me hucko.andrej.mail@gmail.com
 
